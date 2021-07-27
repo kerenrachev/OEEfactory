@@ -1,0 +1,14 @@
+SqlServerParser Config|
+-----------------------
+
+DBIP=localhost
+DBPort=1433
+DBName=OEE
+DBUsername=Ron2
+DBPassword=qwerty123
+TableWorkers=employees
+TableMachines=machines
+TableStops=stopInfo
+TableMaterials=materials
+TableCycles=Cycles
+TableShifts=shifts
